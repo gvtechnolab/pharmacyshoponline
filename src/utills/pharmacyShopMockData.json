@@ -1,0 +1,46 @@
+{
+  "title": "PharmacyShop",
+  "contents": [
+    {
+      "type": "products",
+      "data": [
+        {
+          "id": "1",
+          "name": "Home",
+          "url": "/",
+          "icon": "Home"
+        },
+        {
+          "id": "2",
+          "name": "Ayush",
+          "url": "/ayush",
+          "icon": "AdminPanelSettings"
+        },
+        {
+          "id": "3",
+          "name": "Medicines",
+          "url": "/",
+          "icon": "MedicalInformation"
+        },
+        {
+          "id": "4",
+          "name": "Healthcare",
+          "url": "/healthcare",
+          "icon": "Medication"
+        },
+        {
+          "id": "5",
+          "name": "Contact",
+          "url": "/contact",
+          "icon": "ContactPage"
+        },
+        {
+          "id": "6",
+          "name": "About",
+          "url": "/about",
+          "icon": "Info"
+        }
+      ]
+    }
+  ]
+}
